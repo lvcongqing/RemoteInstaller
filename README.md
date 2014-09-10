@@ -1,4 +1,4 @@
 RemoteInstaller
 ===============
 
-The remote installation tool based on linux.
+The remote installation application tool based on linux.
